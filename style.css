@@ -2,8 +2,11 @@
 h1 {
     text-align: center ;
     font-size: 25px;
-    color: rgb(255, 0, 200);
+    color: rgba(255, 0, 200, 0.39);
 }
 body {
-    background-color: black ;
+    background-color: rgba(0, 0, 0, 0) ;
+}
+.jogo {
+    width: 20%;
 }
